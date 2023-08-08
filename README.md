@@ -1,4 +1,3 @@
-![logo](https://github.com/aryanpatel07/aryanpatel07/blob/main/1681372965315.jpg)
 <h1 align="center">Hi 👋, I'm Aryan Patel</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
