@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Unity 3D**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanpatel07](https://github.com/aryanpatel07)
+- 👨‍💻 All of my projects are available at [https://github.com/aryanpatel07?tab=repositories](https://github.com/aryanpatel07?tab=repositories)
 
 - 📫 How to reach me **ash.7aryanpatel@gmail.com**
 
@@ -22,7 +22,6 @@
 <a href="https://twitter.com/notoriousap07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notoriousap07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan patel" height="30" width="40" /></a>
 <a href="https://instagram.com/ign.notorious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ign.notorious" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@notorious8959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@notorious8959" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/kADSdqZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kADSdqZ" height="30" width="40" /></a>
 </p>
 
