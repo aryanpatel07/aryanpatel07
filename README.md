@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Frontend Web Developer**
 
-- 🌱 I’m currently learning **C#, Unity 3D**
+- 🌱 I’m currently learning **C#, Node.js, Next.js**
 
 - 🤝 I’m looking for help with **Unity 3D**
 
